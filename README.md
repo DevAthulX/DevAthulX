@@ -3,7 +3,7 @@
 <!-- Futuristic Header with Cyber Theme -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,25:4facfe,50:667eea,75:764ba2,100:f093fb&height=220&section=header&text=ATHUL%20M%20SIVAN&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=40&desc=🔬%20PHYSICIST%20•%20💻%20DEVELOPER%20•%20🚀%20INNOVATOR&descAlignY=65&descSize=20" alt="Cyber Header" />
 
-<!-- Cyber Welcome Animation -->
+<!-- Cyber Welcome Animation rt-->
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00d4aa&center=true&vCenter=true&multiline=true&width=500&height=120&lines=🚀%20WELCOME%20TO%20MY%20UNIVERSE;⚡%20PHYSICS%20×%20CODE%20FUSION;🌟%20JEE%202025%20TARGET%20LOCKED;🔥%20BUILDING%20THE%20FUTURE" alt="Cyber Welcome" />
 
 <!-- Cyber Stats Panel -->
