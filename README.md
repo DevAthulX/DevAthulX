@@ -3,8 +3,8 @@
 <!-- Futuristic Header with Cyber Theme -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,25:4facfe,50:667eea,75:764ba2,100:f093fb&height=220&section=header&text=ATHUL%20M%20SIVAN&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=40&desc=🔬%20PHYSICIST%20•%20💻%20DEVELOPER%20•%20🚀%20INNOVATOR&descAlignY=65&descSize=20" alt="Cyber Header" />
 
-<!-- Cyber Welcome Animation rt-->
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00d4aa&center=true&vCenter=true&multiline=true&width=500&height=120&lines=🚀%20WELCOME%20TO%20MY%20UNIVERSE;⚡%20PHYSICS%20×%20CODE%20FUSION;🌟%20JEE%202025%20TARGET%20LOCKED;🔥%20BUILDING%20THE%20FUTURE" alt="Cyber Welcome" />
+<!-- Cyber Welcome Animation -->
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00d4aa&center=true&vCenter=true&multiline=true&width=500&height=120&lines=🚀%20WELCOME%20TO%20MY%20UNIVERSE;⚡%20PHYSICS%20×%20CODE%20FUSION;🌟%20INNOVATION%20UNLOCKED;🔥%20BUILDING%20THE%20FUTURE" alt="Cyber Welcome" />
 
 <!-- Cyber Stats Panel -->
 <div>
@@ -35,7 +35,7 @@ athul@quantum:~$ ./profile.sh --scan
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
    👤 USER:         Athul M Sivan
    📍 LOCATION:     Kerala, India [🇮🇳]
-   🎯 MISSION:      JEE Advanced 2025 >> IIT
+   🎯 MISSION:      Full-Stack Innovation & Physics Simulation
    🧠 SPECIALTY:    Physics × Full-Stack Development
    🐧 ENVIRONMENT:  Arch Linux | Ubuntu | Terminal Master
    ⚡ SUPERPOWER:   Converting E=mc² into clean code
@@ -44,11 +44,11 @@ athul@quantum:~$ ./profile.sh --scan
 
 <div align="center">
 
-### 🎯 **CURRENT OBJECTIVES**
+### 🎯 **CORE FOCUS AREAS**
 
 | 🔬 **PHYSICS MODE** | 💻 **DEV MODE** | 🚀 **GROWTH MODE** |
 |:---:|:---:|:---:|
-| `JEE Advanced 2025` | `Full-Stack Mastery` | `Open Source Hero` |
+| `Simulation Engines` | `Full-Stack Mastery` | `Open Source Hero` |
 | `Quantum Mechanics` | `React Ecosystem` | `15+ Projects` |
 | `Research Projects` | `Linux Expertise` | `2K+ Contributions` |
 
@@ -248,7 +248,7 @@ Physics: [Classical Mechanics, Electromagnetism, Thermodynamics]
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2000&pause=800&color=00d4aa&center=true&vCenter=true&width=600&lines=🎯+TARGET+ACQUIRED:+JEE+ADVANCED+2025;🚀+MISSION:+TOP+1000+RANK;⚡+FULL-STACK+MASTERY+LOADING;🔬+PHYSICS+RESEARCH+ACTIVE;🌟+BUILDING+AMAZING+PROJECTS" alt="Mission Status" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2000&pause=800&color=00d4aa&center=true&vCenter=true&width=600&lines=🎯+INNOVATION+FOCUS:+PHYSICS+MEETS+CODE;🚀+MISSION:+IMPACT+THROUGH+TECHNOLOGY;⚡+FULL-STACK+MASTERY+LOADING;🔬+PHYSICS+RESEARCH+ACTIVE;🌟+BUILDING+AMAZING+PROJECTS" alt="Mission Status" />
 
 </div>
 
@@ -256,12 +256,12 @@ Physics: [Classical Mechanics, Electromagnetism, Thermodynamics]
 
 <div align="center">
 
-| 🎯 **ACADEMIC GOALS** | 💻 **TECHNICAL MASTERY** | 🌍 **COMMUNITY IMPACT** |
+| 🎯 **TECHNICAL EXCELLENCE** | 💻 **INNOVATION PIPELINE** | 🌍 **COMMUNITY IMPACT** |
 |:---:|:---:|:---:|
-| 🥇 **JEE Advanced Top 1000** | 🚀 **20+ Epic Projects** | 🤝 **100+ Contributions** |
-| 🏆 **Physics Olympiad Medal** | ⚡ **Full-Stack Expertise** | 👥 **1000+ Dev Network** |
-| 📝 **Research Publications** | 🐧 **Linux Certification** | 📺 **Tech Content Creation** |
-| 🎓 **IIT Dream Achievement** | ☁️ **Cloud Architecture** | 🌟 **Community Leadership** |
+| 🚀 **20+ Epic Projects** | 🔬 **Advanced Simulations** | 🤝 **100+ Contributions** |
+| ⚡ **Full-Stack Mastery** | 🧮 **Physics Algorithms** | 👥 **1000+ Dev Network** |
+| 🐧 **Linux Expertise** | ☁️ **Cloud Architecture** | 📺 **Tech Content Creation** |
+| 🌐 **Web3 Integration** | 🤖 **AI-Powered Tools** | 🌟 **Community Leadership** |
 
 </div>
 
@@ -271,9 +271,9 @@ Physics: [Classical Mechanics, Electromagnetism, Thermodynamics]
 <img width="350" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Progress Animation" />
 </div>
 
-**🎯 ACADEMIC**: JEE Advanced preparation in full swing  
 **⚡ TECHNICAL**: React ecosystem mastery & Django development  
 **🔬 RESEARCH**: Physics simulations & educational tools  
+**🚀 INNOVATION**: Cutting-edge full-stack applications  
 **🌟 IMPACT**: Daily commits & open source contributions
 
 ---
@@ -353,8 +353,8 @@ Physics: [Classical Mechanics, Electromagnetism, Thermodynamics]
 
 <!-- Enhanced Social Links -->
 <div>
-<a href="mailto:athul.cs.dev@gmail.com">
-<img src="https://img.shields.io/badge/📧%20EMAIL-athul.cs.dev@gmail.com-00d4aa?style=for-the-badge&labelColor=0a0e27&color=00d4aa" alt="Email" />
+<a href="mailto:athulmsivan08@gmail.com">
+<img src="https://img.shields.io/badge/📧%20EMAIL-athulmsivan08@gmail.com-00d4aa?style=for-the-badge&labelColor=0a0e27&color=00d4aa" alt="Email" />
 </a>
 <a href="https://in.linkedin.com/in/athul-m-sivan-849029364">
 <img src="https://img.shields.io/badge/💼%20LINKEDIN-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0e27" alt="LinkedIn" />
@@ -394,7 +394,7 @@ Physics: [Classical Mechanics, Electromagnetism, Thermodynamics]
 
 ### 🌟 **CRAFTED WITH PASSION BY [ATHUL M SIVAN](https://github.com/DevAthulX)** 🌟
 
-**📅 LAST UPDATED**: August 2025 • **🔄 AUTO-REFRESH**: Every 2 minutes  
+**📅 LAST UPDATED**: November 2025 • **🔄 AUTO-REFRESH**: Every 2 minutes  
 **📱 MOBILE OPTIMIZED** • **🖥️ DESKTOP ENHANCED** • **⚡ PERFORMANCE FOCUSED**
 
 <div>
