@@ -2,7 +2,7 @@ name: Generate snake animation
 
 on:
   schedule:
-    - cron: "* */12 * * *"
+    - cron: "0 */12 * * *"  # Fixed cron expression
   workflow_dispatch:
   push:
     branches:
@@ -16,21 +16,18 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: checkout repo
-        uses: actions/checkout@v3
+      - name: Checkout repo
+        uses: actions/checkout@v4  # Updated to v4
 
-      - name: create dist folder
-        run: mkdir -p dist
-
-      - name: generate snake.svg
+      - name: Generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          output: dist/snake.svg
-          palette: github-dark
+          outputs: dist/snake.svg
+          gif_out_path: dist/snake.gif  # Optional: also generate GIF
 
-      - name: push snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4  # Updated to v4
         with:
           target_branch: output
           build_dir: dist
