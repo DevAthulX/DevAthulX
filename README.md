@@ -95,10 +95,9 @@
 ###
 
 <div align="center">
-  <img src="github-readme-stats-phi-two-76.vercel.app" height="150" alt="stats graph"  />
-  <img src="github-readme-stats-phi-two-76.vercel.app" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=DevAthulX&show_icons=true&theme=dark" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAthulX&layout=compact&theme=dark" height="150" alt="languages graph"  />
 </div>
-
 ###
 
 <br clear="both">
